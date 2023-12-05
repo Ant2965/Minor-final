@@ -1,4 +1,4 @@
-package com.anand.geneticalgorithm.algorithm;
+package com.ant.geneticalgorithm.algorithm;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -33,14 +33,14 @@ public class DataProvider {
 		Room r3 = new Room("R3", 80);
 		rooms = new ArrayList<Room>(Arrays.asList(r1, r2, r3));
 
-		//TimeSlot ts1 = new TimeSlot("TS1", "M 9:00 - 10:00");
-		//TimeSlot ts2 = new TimeSlot("TS2", "M 10:00 - 11:00");
-		//TimeSlot ts3 = new TimeSlot("TS3", "M 11:00 - 12:00");
-		//TimeSlot ts4 = new TimeSlot("TS4", "M 12:00 - 1:00");
-		//TimeSlot ts5 = new TimeSlot("TS4", "M 1:00 - 2:00");
-		//TimeSlot ts6 = new TimeSlot("TS4", "M 2:00 - 3:00");
-		//TimeSlot ts7 = new TimeSlot("TS4", "M 3:00 - 4:00");
-		
+		// TimeSlot ts1 = new TimeSlot("TS1", "M 9:00 - 10:00");
+		// TimeSlot ts2 = new TimeSlot("TS2", "M 10:00 - 11:00");
+		// TimeSlot ts3 = new TimeSlot("TS3", "M 11:00 - 12:00");
+		// TimeSlot ts4 = new TimeSlot("TS4", "M 12:00 - 1:00");
+		// TimeSlot ts5 = new TimeSlot("TS4", "M 1:00 - 2:00");
+		// TimeSlot ts6 = new TimeSlot("TS4", "M 2:00 - 3:00");
+		// TimeSlot ts7 = new TimeSlot("TS4", "M 3:00 - 4:00");
+
 		TimeSlot ts1 = new TimeSlot("TS1", "M 9:00 - 10:00");
 		TimeSlot ts2 = new TimeSlot("TS2", "M 10:00 - 11:00");
 		TimeSlot ts3 = new TimeSlot("TS3", "M 11:00 - 12:00");
@@ -48,8 +48,8 @@ public class DataProvider {
 		TimeSlot ts5 = new TimeSlot("TS4", "M 1:00 - 2:00");
 		TimeSlot ts6 = new TimeSlot("TS4", "M 2:00 - 3:00");
 		TimeSlot ts7 = new TimeSlot("TS4", "M 3:00 - 4:00");
-		
-		timeslots = new ArrayList<>(Arrays.asList(ts1, ts2, ts3, ts4,ts5,ts6,ts7));
+
+		timeslots = new ArrayList<>(Arrays.asList(ts1, ts2, ts3, ts4, ts5, ts6, ts7));
 
 		Teacher t1 = new Teacher("T1", "Sandeep");
 		Teacher t2 = new Teacher("T2", "Hitesh");

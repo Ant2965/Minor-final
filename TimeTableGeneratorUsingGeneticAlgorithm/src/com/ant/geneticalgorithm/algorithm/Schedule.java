@@ -1,4 +1,4 @@
-package com.anand.geneticalgorithm.algorithm;
+package com.ant.geneticalgorithm.algorithm;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -115,7 +115,7 @@ public class Schedule {
 	@Override
 	public String toString() {
 		String returnValue = "";
-		for(int i =0;i<classes.size();i++) {
+		for (int i = 0; i < classes.size(); i++) {
 			returnValue += classes.get(i) + ",";
 		}
 		return returnValue;

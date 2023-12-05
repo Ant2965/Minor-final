@@ -1,11 +1,10 @@
-package com.anand.geneticalgorithm.algorithm;
+package com.ant.geneticalgorithm.algorithm;
 
 import java.util.List;
 import java.util.stream.IntStream;
 
 import com.anand.geneticalgorithm.driver.MainApp;
 
- 
 public class GeneticAlgorithm {
 	private DataProvider dataProvider;
 

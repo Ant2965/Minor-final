@@ -1,4 +1,4 @@
-package com.anand.geneticalgorithm.algorithm;
+package com.ant.geneticalgorithm.algorithm;
 
 import java.util.ArrayList;
 import java.util.List;

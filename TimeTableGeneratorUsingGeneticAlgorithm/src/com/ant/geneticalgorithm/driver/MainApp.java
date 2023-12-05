@@ -1,4 +1,4 @@
-package com.anand.geneticalgorithm.driver;
+package com.ant.geneticalgorithm.driver;
 
 import java.util.List;
 
@@ -7,7 +7,6 @@ import com.anand.geneticalgorithm.algorithm.GeneticAlgorithm;
 import com.anand.geneticalgorithm.algorithm.Population;
 import com.anand.geneticalgorithm.algorithm.Schedule;
 import com.anand.geneticalgorithm.domain.Class;
-
 
 public class MainApp {
 
