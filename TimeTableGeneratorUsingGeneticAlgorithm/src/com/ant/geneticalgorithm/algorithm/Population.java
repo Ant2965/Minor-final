@@ -4,11 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.IntStream;
 
-/**
- * 
- * @author A Anand
- *
- */
 public class Population {
 	private List<Schedule> schedules;
 

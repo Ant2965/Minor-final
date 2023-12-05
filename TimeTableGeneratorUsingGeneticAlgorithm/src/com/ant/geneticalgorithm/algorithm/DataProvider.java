@@ -4,14 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import com.anand.geneticalgorithm.domain.*;
+import com.ant.geneticalgorithm.domain.*;
 
-/**
- * This is the Data Provider class. Ideally this should be a DAO
- * 
- * @author A Anand
- *
- */
 public class DataProvider {
 
 	private List<Room> rooms;

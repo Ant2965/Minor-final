@@ -3,14 +3,9 @@ package com.ant.geneticalgorithm.algorithm;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.anand.geneticalgorithm.domain.Class;
-import com.anand.geneticalgorithm.domain.Department;
+import com.ant.geneticalgorithm.domain.Class;
+import com.ant.geneticalgorithm.domain.Department;
 
-/**
- * 
- * @author A Anand
- *
- */
 public class Schedule {
 
 	private List<Class> classes;

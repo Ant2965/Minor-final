@@ -3,7 +3,7 @@ package com.ant.geneticalgorithm.algorithm;
 import java.util.List;
 import java.util.stream.IntStream;
 
-import com.anand.geneticalgorithm.driver.MainApp;
+import com.ant.geneticalgorithm.driver.MainApp;
 
 public class GeneticAlgorithm {
 	private DataProvider dataProvider;
